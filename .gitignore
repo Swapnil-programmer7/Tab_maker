@@ -1,2 +1,8 @@
 logs/
 Tab_maker.exe
+Tab_maker.o
+dataStruct.o
+insertion.o
+a.exe
+util/insertion.exe
+util/dataStruct.exe
