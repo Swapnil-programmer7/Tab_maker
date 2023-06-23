@@ -1,0 +1,71 @@
+[33mcommit 98051b5b7d383eb68a06805eecccb2eb30f851c6[m[33m ([m[1;36mHEAD -> [m[1;32mmultiple-codes[m[33m)[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Fri Jun 23 06:51:51 2023 +0530
+
+    excluded .o and .exe files from vc
+
+[33mcommit 8ef6329908b8d301bca7136ceb039f60fab3948c[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 18:22:59 2023 +0530
+
+    header for class created
+
+[33mcommit 98008f84636897316f69349125ea64b7b09920cc[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 18:21:23 2023 +0530
+
+    insertion header linked with main
+
+[33mcommit dc1ce3312098342fe68eda950cfe71beaef6d25a[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 18:12:09 2023 +0530
+
+    created a directory for headers
+
+[33mcommit 04cfebf06c97fa466abe8304f9f8c0ce433c1652[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 18:09:20 2023 +0530
+
+    functions corrected in header
+
+[33mcommit a53c06ac0f404c49b1bf2f914b2da37d91f85908[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 18:03:22 2023 +0530
+
+    header filename corrected
+
+[33mcommit 2120a74f915dfd2f24f822ecbf2365f8ce6771c0[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Thu Jun 22 17:47:28 2023 +0530
+
+    created the header and extended file
+
+[33mcommit d7c119248cfc90d121cd71856decadd16d29fe10[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Wed Jun 21 12:50:03 2023 +0530
+
+    testing git and github
+
+[33mcommit c9972b9db576386302b3e467c5765dc71a3409b7[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Tue Jun 20 06:33:31 2023 +0530
+
+    added the files to exclude
+
+[33mcommit 87f81ff7bf5e62e1129bf1b0b267313d02e28708[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Tue Jun 20 05:42:07 2023 +0530
+
+    removed the learing files
+
+[33mcommit 760ef1d92d03fc055069fc93d556953ec854c99b[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Tue Jun 20 05:32:01 2023 +0530
+
+    learning
+
+[33mcommit c0becf75072f1afea4b3da353b618afde87c8871[m
+Author: Swapnil_Shekhar <swapnil7924@gmail.com>
+Date:   Tue Jun 20 05:18:22 2023 +0530
+
+    adding the first version
