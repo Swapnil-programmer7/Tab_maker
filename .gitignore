@@ -5,4 +5,4 @@ dataStruct.o
 insertion.o
 a.exe
 util/insertion.exe
-util/dataStruct.exe
+util/dataStruct.exemain.o

@@ -4,8 +4,9 @@
 #include <conio.h>
 #include <stdlib.h>
 
-using namespace std;
 
+using namespace std;
+#include "insertion.h"
 #include "dataStruct.h"
 
 void insertA(Note **&riff, string note, int duration)
