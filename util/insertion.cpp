@@ -6,34 +6,7 @@
 
 using namespace std;
 
-class Note
-{
-public:
-    string note;
-    int duration;
-    Note *next;
-
-    Note()
-    {
-        this->note = "--";
-        this->duration = 1;
-        this->next = NULL;
-    }
-
-    Note(string n, int d)
-    {
-        this->note = n;
-        this->duration = d;
-        this->next = NULL;
-    }
-
-    Note(int d)
-    {
-        this->note = "--";
-        this->duration = d;
-        this->next = NULL;
-    }
-};
+#include "dataStruct.h"
 
 void insertA(Note **&riff, string note, int duration)
 {
